@@ -1,0 +1,8 @@
+2021/12/08-17:07:37.844 683ac Creating DB /home/rsasm/Dokumen/DEVELOPMENT/rebot/_IGNORE_session/Default/Local Storage/leveldb since it was missing.
+2021/12/08-17:07:37.928 683ac Reusing MANIFEST /home/rsasm/Dokumen/DEVELOPMENT/rebot/_IGNORE_session/Default/Local Storage/leveldb/MANIFEST-000001
+2021/12/10-16:40:18.307 761d5 Level-0 table #5: started
+2021/12/10-16:40:18.366 761d5 Level-0 table #5: 12026 bytes OK
+2021/12/10-16:40:18.400 761d5 Delete type=0 #3
+2021/12/12-23:03:11.895 85ebe Level-0 table #7: started
+2021/12/12-23:03:11.950 85ebe Level-0 table #7: 9821 bytes OK
+2021/12/12-23:03:11.983 85ebe Delete type=0 #4

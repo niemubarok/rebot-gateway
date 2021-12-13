@@ -1,21 +1,5 @@
 {
-  "name": "rebot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
   "dependencies": {
-    "axios": "^0.21.1",
-    "express": "^4.17.1",
-    "puppeteer": "^5.5.0",
-    "venom-bot": "^2.2.3"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.6"
-  },
-  "scripts": {
-    "test": "nodemon tes",
-    "start": "node app"
-  },
-  "author": "",
-  "license": "ISC"
+    "@open-wa/wa-automate": "^4.25.1"
+  }
 }
